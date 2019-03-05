@@ -1,2 +1,3 @@
 # zoo
-# zoo
+Virtual zoo. 
+Language: Java
